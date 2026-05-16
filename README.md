@@ -25,7 +25,7 @@ Também compartilho conteúdos através do Instagram:
         />
     </a>
 
-    <a href="https://github.com/FernandaPeress">
+     <a href="https://github.com/FernandaPeress">
         <img 
             alt="GitHub" 
             title="Meu GitHub" 
