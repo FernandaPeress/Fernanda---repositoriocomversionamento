@@ -58,7 +58,34 @@ Sou interessada na área de tecnologia e busco constantemente aprender e desenvo
         Cursando o 1º período
     </li>
 </ul>
+<h3>Tecnologias e Áreas de Conhecimento</h3>
 
+<ul>
+    <li>
+        <strong>Linguagens:</strong> C, Java, SQL
+    </li>
+    <li>
+        <strong>Desenvolvimento Web:</strong> HTML, CSS
+    </li>
+    <li>
+        <strong>Banco de Dados:</strong> SQL e modelagem de dados
+    </li>
+    <li>
+        <strong>Fundamentos:</strong> Lógica de Programação, Algoritmos e Estruturas de Dados
+    </li>
+    <li>
+        <strong>Engenharia de Software:</strong> Análise de requisitos, modelagem de sistemas e desenvolvimento de projetos
+    </li>
+</ul>
+
+<h3> Atualmente Estudando</h3>
+
+<ul>
+    <li>Desenvolvimento de interfaces</li>
+    <li>Desenvolvimento Web</li>
+    <li>Banco de Dados</li>
+    <li>Programação em Java</li>
+</ul>
 <h3>Experiências Acadêmicas e Profissionais</h3>
 <ul>
     <li>Participação na <strong>14ª Semana de Produção Científica do IFB</strong>, realizada em outubro de 2025, na Arena BRB Mané Garrincha, em Brasília.</li>
@@ -84,7 +111,7 @@ Sou interessada na área de tecnologia e busco constantemente aprender e desenvo
 </section>
 
 <section>
-    <h2>🚀 Projetos Acadêmicos e Profissionais</h2>
+    <h2>Projetos Acadêmicos e Profissionais</h2>
 
 <h3>O Culto ao Corpo: a saúde como novo símbolo de status</h3>
 
@@ -102,7 +129,7 @@ Sou interessada na área de tecnologia e busco constantemente aprender e desenvo
 </section>
 
 <section>
-    <h2>🧠 Habilidades e Competências</h2>
+    <h2> Habilidades e Competências</h2>
     <ul>
         <li>Facilidade de aprendizagem</li>
         <li>Pensamento crítico</li>
@@ -113,22 +140,6 @@ Sou interessada na área de tecnologia e busco constantemente aprender e desenvo
 
   <p><strong>Slides de habilidades:</strong></p>
 <a href="https://canva.link/7v2iwz19pe966sj" target="_blank">Ver apresentação</a>
-</section>
-
-<section>
-    <h2>💬 Recomendações e Testemunhos</h2>
-
-   <p>
-    <strong>Cleber – Orientador do projeto “O Culto ao Corpo”</strong><br>
-    Fernanda demonstrou excelente comprometimento e dedicação durante o desenvolvimento do projeto,
-    apresentando organização, responsabilidade e pensamento crítico ao longo de todas as etapas.
-</p>
-
-<p>
-    <strong>Guilherme – Professor de Empreendedorismo</strong><br>
-    Fernanda se destacou pela sua proatividade, capacidade de trabalho em equipe e criatividade
-    na construção de ideias, demonstrando grande potencial para o desenvolvimento profissional.
-</p>
 </section>
 
 <section>
