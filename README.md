@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Fernanda Peress
 
-**Estudante de Engenharia - PortifólioHUB - trabalho Bootcamp**
+**Estudante de Engenharia -**
 
 Me chamo Fernanda Peres Rezende, tenho 19 anos e sou natural do Brasil. Concluí o ensino médio pelo Instituto Federal de Brasília (IFB), campus Gama, com formação técnica em Alimentos. Atualmente, estou cursando Engenharia de Software.
 Sou interessada na área de tecnologia e busco constantemente aprender e desenvolver minhas habilidades acadêmicas e profissionais. E também através do Instagram, com o perfil chamado "[_nandaperes](https://www.instagram.com/_nandaperes)"
