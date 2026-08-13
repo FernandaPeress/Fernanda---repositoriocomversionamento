@@ -142,11 +142,3 @@ Sou interessada na área de tecnologia e busco constantemente aprender e desenvo
 <a href="https://canva.link/7v2iwz19pe966sj" target="_blank">Ver apresentação</a>
 </section>
 
-<section>
-    <h2>Outros</h2>
-    <ul>
-        <li>Participação em eventos acadêmicos e científicos</li>
-        <li>Interesse nas áreas de tecnologia e saúde</li>
-        <li>Interesse por inovação e aprendizado contínuo</li>
-    </ul>
-</section>
