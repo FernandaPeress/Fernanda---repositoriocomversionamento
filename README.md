@@ -47,12 +47,11 @@ Sou interessada na área de tecnologia e busco constantemente aprender e desenvo
         Instituto Federal de Brasília (IFB) – Campus Gama<br>
         Conclusão: 2025
     </li>
-    
     <li>
-        <strong>Graduação em Engenharia de Software</strong><br>
-         Centro Universitário de Brasília (CEUB)<br>
-        Cursando o 2º período
-          </li>
+    <strong>Graduação em Engenharia de Software</strong><br>
+    Centro Universitário de Brasília (CEUB)<br>
+    Cursando o 2º período
+</li>
  </li>
          <strong>Graduação em Administração</strong><br>
          Universidade de Brasília (UnB)
